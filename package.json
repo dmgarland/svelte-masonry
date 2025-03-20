@@ -33,7 +33,7 @@
 		"!dist/**/*.spec.*"
 	],
 	"peerDependencies": {
-		"svelte": "^4.0.0"
+		"svelte": ">=4"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.3.1",
